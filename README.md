@@ -34,7 +34,7 @@ Crée par Théo TELLIEZ dans le cadre d'un projet scolaire d'initiation au JavaS
 
 
 ## Contact...
-Créateur de l'application : Théo TELLIEZ.
+Créateur de l'application : Théo TELLIEZ.  
 Intervenant / Professeur : Julien LE GALÈS
 
 N'hésitez pas à me contacter : theo.telliez@epsi.fr
