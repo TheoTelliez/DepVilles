@@ -1,5 +1,5 @@
 ## Formulaire d'inscription avec départements et villes
-Formulaire d'inscription avec sélection de son département (FR), puis de sa ville en fonction de son département. 
+Formulaire d'inscription avec sélection de son département (FR), puis de sa ville en fonction de son département.   
 Crée par Théo TELLIEZ dans le cadre d'un projet scolaire d'initiation au JavaScript.
 
 
